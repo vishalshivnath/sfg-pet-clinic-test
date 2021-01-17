@@ -3,6 +3,7 @@ package guru.springframework.sfgpetclinictest.services;
 //import java.util.Set;
 
 import guru.springframework.sfgpetclinictest.model.Owner;
+import guru.springframework.sfgpetclinictest.model.Person;
 
 public interface OwnerService extends CrudService<Owner,Long>{
 
