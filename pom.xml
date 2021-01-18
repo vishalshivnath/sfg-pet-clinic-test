@@ -7,6 +7,7 @@
 		<module>pet-clinic-data-test</module>
 		<module>pet-clinic-web-test</module>
 		</modules>
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
